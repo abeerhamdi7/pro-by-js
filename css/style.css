@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-transform: capitalize;
+    color: aliceblue;
+    
+}
+.bigcontainer{
+    background-color: rgb(52, 49, 92);
+}
+     .task1{
+         background-color: #53577d;
+         
+
+}
+   .icon-star{
+    color: rgb(196, 195, 195);
+       
+   }
+   .icon-star:hover, .icon-angry2:hover, .icon-bin:hover{
+       font-size: 30px;
+       color: rgba(255, 255, 0, 0.863);
+       transition: .4;
+   }
+   .icon-angry2:hover{
+       color: rgb(199, 130, 159);
+   }
+   .icon-angry2{
+    color: rgba(255, 255, 0, 0.863);
+   }
+   .to-do{
+    background-image: linear-gradient(to top ,  rgb(52, 49, 92),#9d9d9e ) !important;
+   }
+   .dn{
+       display: none;
+   }
+   .icon-heart{
+  
+    color: red;
+  }
+  .icon-heart:hover{
+    transition: .4;
+  }
+  .mediumline{
+      text-decoration: line-through;
+  }
+  .star{
+    color: red;
+  }
+  .icon-upload:hover{
+   color: aquamarine;
+  }
+   
+ 
+  
